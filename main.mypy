@@ -1,1 +1,5 @@
 print("This is Main.py!")  # Contribute to this
+print()
+print("Welcome to Village! You will take control of a small village struck by constant disaster and lead it to greatness!")
+print()
+tutorial = input("Do you know how to play? Type '0' if you do and '1' if you do not.")
